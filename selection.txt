@@ -10,7 +10,7 @@ URL=https://imedtv1.googlecode.com/svn/Playlists/home
 type=playlist
 name=FR - Autres
 thumb=http://www.educnet.education.fr/international/images/http://img22.imageshack.us/img22/6939/makykiki.png
-URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/french.txt
+URL=https://raw.github.com/NavFRi-x/playlists/master/french.txt
 #
 type=playlist
 name=EN - MovieBox (films + séries en anglais)

@@ -59,14 +59,14 @@ icon=http://icons.iconarchive.com/icons/iconscity/flags/32/uk-icon.png
 type=playlist
 name=TV Shows (séries en anglais)
 thumb=http://clansmkr.comze.com/images/tvshows.png
-URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/series.txt
+URL=https://raw.github.com/NavFRi-x/playlists/master/series.txt
 #URL=http://dl.dropbox.com/u/103894968/navi-x/favorites/playlists/tv.plx
 icon=http://icons.iconarchive.com/icons/iconlicious/misc/32/Monitor-icon.png
 
 type=playlist
 name=Sélectionné pour vous (Autres contenus et liens en français, espagnol et anglais)
 thumb=http://icons.iconarchive.com/icons/reclusekc/pencil/256/Pencil-icon.png
-URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/selection.txt
+URL=https://raw.github.com/NavFRi-x/playlists/master/selection.txt
 icon=http://icons.iconarchive.com/icons/reclusekc/pencil/32/Pencil-icon.png
 
 type=playlist
@@ -136,7 +136,7 @@ Rappel de la loi (Article 227-24 du code pénal) :
 Le fait de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine est puni de trois ans d'emprisonnement et de 75 000€ d'amende lorsque ce message est susceptible d'être vu ou perçu par un mineur.
 /description
 thumb=http://www.barcelo.com/BarceloHotels/en_GB/Images/ADULTS_only21-65544.gif
-URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/adult.txt
+URL=https://raw.github.com/NavFRi-x/playlists/master/adult.txt
 icon=http://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/32/Letter-X-icon.png
 
 type=window
