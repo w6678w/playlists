@@ -1,0 +1,34 @@
+﻿version=1
+title=Français (autres)
+#
+type=playlist
+name=Contenu français
+thumb=http://www.educnet.education.fr/international/images/carte-membres-francophonie.gif
+URL=http://www.navixtreme.com/playlist/64921/french.plx
+#
+type=playlist
+name=Films francais <<Synlau>>
+thumb=http://www.billetsportspectacles.com/canadiens+de+montreal/BSS1.jpg
+URL=http://www.navixtreme.com/playlist/84285/films_francais_synlau.plx
+#
+type=playlist
+name=Cinéma Français / French Films
+thumb=http://www.elearningfrench.com/images/learn-french.gif
+URL=http://www.navixtreme.com/playlist/72958/le_cinma_franais_french_films.plx
+#
+type=playlist
+name=FILM FRANCAIS
+thumb=http://images2.layoutsparks.com/1/251568/fantasy-series-yin-yang-31000.png
+URL=http://www.navixtreme.com/playlist/64820/
+#
+type=playlist
+name=Live TV Fr
+thumb=http://www.educnet.education.fr/international/images/carte-membres-francophonie.gif
+URL=http://www.navixtreme.com/wiilist/85147/france_.plx
+#
+type=playlist
+name=Chaines francophones
+thumb=http://www.educnet.education.fr/international/images/carte-membres-francophonie.gif
+URL=http://www.navixtreme.com/playlist/21929/chaines_francophones.plx
+#
+

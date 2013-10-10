@@ -1,0 +1,52 @@
+version=1
+background=http://dl.dropbox.com/u/103894968/navi-x/favorites/images/living-room-artwork.jpg
+title=TV Series, Shows and Episodes
+icon_playlist=http://dl.dropbox.com/u/103894968/navi-x/favorites/images/tv.png
+
+#
+#type=playlist
+#name=Watchseries-Online TV
+#URL=http://www.navixtreme.com/cgi-bin/boseman/Scrapers/ct_watchseries-online
+#thumb=http://www.watchseries-online.eu/fb_icon.png
+#player=default
+#rating=-1.00
+
+#
+type=playlist
+name=WatchSeries TV
+URL=http://navix.zapto.org/watchseries/home.plx
+thumb=http://watchseries.eu/images/logo.png
+player=default
+rating=-1.00
+
+#
+type=playlist
+name=ProjectFree TV
+URL=http://www.navixtreme.com/cgi-bin/boseman/Scrapers/ct_freetv?q=gettvshows
+thumb=http://www.xbmchub.com/blog/wp-content/plugins/download-manager/file-type-icons/wpdm-icon-1334699110-pft-icon.png
+player=default
+rating=-1.00
+
+#
+#type=playlist
+#name=FastPass TV
+#URL=http://www.navixtreme.com/cgi-bin/boseman/Scrapers/ct_fastpasstv?q=gettvshows
+#thumb=http://www.clker.com/cliparts/2/c/e/f/13043282911864222377fastpasstv%20white%20background.jpg
+#player=default
+#rating=-1.00
+
+#
+#type=playlist
+#name=Movies2k TV
+#URL=http://www.navixtreme.com/cgi-bin/boseman/Scrapers/ct_movie2kv2?q=getmenu/en/TV%20shows
+#thumb=http://87.106.7.69/OnlineVideosWebService/Icons/movie2k.to.png
+#player=default
+#rating=-1.00
+
+#
+type=playlist
+name=Icefilms
+URL=http://www.navixtreme.com/scrape/icefilms/
+thumb=http://www.j1nx.nl/wp-content/uploads/2012/09/IceFilms.png
+player=default
+rating=-1.00

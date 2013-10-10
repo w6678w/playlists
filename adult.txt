@@ -1,0 +1,33 @@
+version=7
+title=Contenu pour adultes - Interdit aux mineurs !
+#
+type=playlist
+name=Spice your sex life (hardcore and softcore single scenes and full films)
+thumb=http://thumb15.shutterstock.com/photos/thumb_large/300556/300556,1257908272,21.jpg
+URL=http://www.navixtreme.com/playlist/74825/spice_your_sex_life_(hardcore_and_softcore_single_scenes_and_full_films).plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-love/32/Sex-Male-Female-Circled-icon.png
+#
+type=playlist
+name=Porn Channels
+thumb=http://amplusmarketing.com/sites/all/themes/amplus/public/styles/blog/public/images/Xxx_tld_logo_0.jpg
+URL=http://www.navixtreme.com/playlist/80922/porn_channels.plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-love/32/Sex-Male-Female-Circled-icon.png
+#
+type=playlist
+name=Czech Amateurs Porn
+thumb=http://img.centerofwarez.cz/subdom/img/image.php?di=DJ25
+URL=http://www.navixtreme.com/playlist/112126/czech_amateurs_porn_(cap).plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-love/32/Sex-Male-Female-Circled-icon.png
+#
+type=playlist
+name=Amateur Adult Movies
+thumb=http://i.imgbox.com/abhU9Qkq.jpg
+URL=http://www.navixtreme.com/playlist/106538/amateur_adult_movies.plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-love/32/Sex-Male-Female-Circled-icon.png
+#
+type=playlist
+name=Porn Scrapers
+thumb=http://www.barcelo.com/BarceloHotels/en_GB/Images/ADULTS_only21-65544.gif
+URL=http://www.navixtreme.com/playlist/83520/porn_scrapers.plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-love/32/Sex-Male-Female-Circled-icon.png
+#

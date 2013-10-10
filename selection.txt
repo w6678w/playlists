@@ -1,0 +1,62 @@
+version=7
+title=Sélectionné pour vous
+background=http://scrape.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
+#
+type=playlist
+name=FR - Tout le contenu français (films, enfants, 3D, documentaires, spectacles) sans lenteur
+thumb=http://www.educnet.education.fr/international/images/http://img22.imageshack.us/img22/6939/makykiki.png
+URL=https://imedtv1.googlecode.com/svn/Playlists/home
+#
+type=playlist
+name=FR - Autres
+thumb=http://www.educnet.education.fr/international/images/http://img22.imageshack.us/img22/6939/makykiki.png
+URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/french.txt
+#
+type=playlist
+name=EN - MovieBox (films + séries en anglais)
+thumb=http://dl.dropbox.com/u/103894968/navi-x/favorites/images/box_film_movie_video.png
+URL=http://www.navixtreme.com/playlist/80637/moviebox.plx
+#
+#type=playlist
+#name=ES - Todo el contenido en español (tout le contenu espagnol) sans lenteur
+#thumb=http://img22.imageshack.us/img22/6939/makykiki.png
+#URL=http://makykiki.tk/NaviX/MakyKiki.plx
+#
+type=playlist
+name=ES - Todo el contenido en español  (tout le contenu espagnol) sans lenteur
+thumb=http://img22.imageshack.us/img22/6939/makykiki.png
+URL=http://dl.dropbox.com/u/22946999/fulll.plx
+#URL=http://series.vv.si/home1.txt
+#
+type=playlist
+name=EN - TV Shows (séries en anglais)
+thumb=http://dl.dropbox.com/u/103894968/navi-x/favorites/images/tv.png
+URL=http://dl.dropbox.com/u/103894968/navi-x/favorites/playlists/tv.plx
+player=default
+rating=-1.00
+#
+type=playlist
+name=EN - Great Family and Kids shows and movies (films et dessins animés familles en anglais)
+thumb=http://www.epicparent.tv/wp-content/uploads/2010/12/family-movie-night2.png
+URL=http://www.navixtreme.com/playlist/78527/great_family_and_kids_shows_and_movies.plx
+#
+type=playlist
+name=EN - the HackerMil (en anglais)
+thumb=http://i1367.photobucket.com/albums/r795/HackerMil/all_zpsf7c33188.jpg
+URL=http://www.navixtreme.com/playlist/116806/hacker_mils_stash_all_working_links_all_the_time_new_1080p_sport_and_doc_sections_all_movies_in_theatres_only_good_movies_get_added_plus_viewer_requests.plx
+#
+type=playlist
+name=EN - Live TV Channels (chaines TV en anglais)
+thumb=http://farm8.staticflickr.com/7077/7245034036_1cbd93f3cc_m.jpg
+URL=http://www.navixtreme.com/playlist/71062/_live_tv_channels_for_xmbc_only.plx
+#
+type=playlist
+name=ES - TV (chaines de télévision espagnol)
+URL=http://series.vv.si/tv.txt
+#
+type=playlist
+name=ES - PELICULAS EN ESPAÑOL (films en espagnol)
+thumb=http://1.bp.blogspot.com/_3VlIrb3i8Ys/TER6ksbsQ0I/AAAAAAAADW4/If9kAMRewaY/s400/cine.jpg
+URL=http://www.navixtreme.com/playlist/96823/peliculas_en_espaol.plx
+description=SOLO PELICULAS EN ESPAÃ?OL/description
+#

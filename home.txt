@@ -1,0 +1,146 @@
+#First line indicated the Playlist version.
+version=1
+#Second line indicates background image.
+background=http://scenery-wallpapers.com/wallpapers/vista_summer_sea_beach_wallpaper_by_booterboys-1440x900.jpg
+#third line indicates the title
+title=Accueil
+#logo=http://www.navi-x.org/playlists/logo.png
+description=
+Nous n'offrons aucun hébergement de contenus ou tout type de service commercial de quelque nature que ce soit.
+Nous n'encourageons aucune infraction de la loi et ne pouvons être tenu pour responsable d'aucune infraction vis-à-vis des lois, que ce soit parce que vous établissiez un lien avec ce domaine, que vous utilisiez, reproduisiez ou republiez l'information contenue sur ce site.
+Tous les liens ci-dessous sont sur des serveurs distants librement accessibles depuis Internet dont nous ne sommes pas responsables.
+Veuillez vous assurer du contenu, informations et liens que vous regardez ou utilisez, vous êtes responsable de l'usage que vous en faites.
+Veuillez notamment respecter la législation en vigueur dans votre pays.
+
+This website is not offering filehosting services or any other free or commercial services of any nature.
+It only aggregates content about filehosting, filesharing and Internet in general, not hosted here but by third parties.
+By visiting this website you accept unconditionally the above statements and consequently will refrain from claiming any copyright infringement or cybersquatting attempts.
+We do not encourage the violation of any laws, and cannot be responsible for any violations of such laws, should you link to this domain or use, reproduce or republish the information contained herein.
+
+Este plugin no alberga ningun video , ni emite ningun canal en nuestros servidores.
+Todos sus contenidos se encuentran en paginas externas al plugin.
+Usted esta comprometiendose a avisar a la web de soporte en caso de ver algun video que pudiese contener pornografia infantil o bien algun material que incumpla las leyes o desvele datos de intimidad en la web.
+Este plugin esta elaborado con fines educativos, el mal uso de este es bajo su propia responsabilidad.
+
+/description
+
+type=playlist
+name=Voir Historique
+thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/history.png
+icon=http://icons.iconarchive.com/icons/chaninja/chaninja/32/History-icon.png
+URL=history.plx
+
+type=playlist
+name=Tout le contenu français
+thumb=http://www.ctphotos.fr/Image/Flag/round/fr.png
+URL=https://imedtv1.googlecode.com/svn/Playlists/home
+icon=http://icons.iconarchive.com/icons/iconscity/flags/32/france-icon.png
+
+#type=playlist
+#name=Todo el contenido en español (tout le contenu espagnol)
+#thumb=http://i720.photobucket.com/albums/ww210/Ramir3z30/1600367-Spanish_flag-Spain.jpg
+#URL=http://makykiki.tk/NaviX/MakyKiki.plx
+#URL=https://raw.github.com/makykiki/Wii-Lista-Navi-X/master/MakyKiki.plx
+#icon=http://icons.iconarchive.com/icons/deleket/flag-borderless/32/Spain-icon.png
+
+type=playlist
+#name=Mas contenido en español (encore plus de contenu espagnol - devrait remplacer le lien précédent)
+name=Todo el contenido en español (tout le contenu espagnol)
+thumb=http://icons.iconarchive.com/icons/deleket/flag-borderless/256/Spain-icon.png
+URL=http://5.56.59.73/menu/full379.txt
+icon=http://icons.iconarchive.com/icons/deleket/flag-borderless/32/Spain-icon.png
+
+type=playlist
+name=All the english content (tout le contenu anglais)
+thumb=http://www.ctphotos.fr/Image/Flag/round/uk.png
+URL=http://www.navixtreme.com/playlist/80637/moviebox.plx
+icon=http://icons.iconarchive.com/icons/iconscity/flags/32/uk-icon.png
+
+type=playlist
+name=TV Shows (séries en anglais)
+thumb=http://clansmkr.comze.com/images/tvshows.png
+URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/series.txt
+#URL=http://dl.dropbox.com/u/103894968/navi-x/favorites/playlists/tv.plx
+icon=http://icons.iconarchive.com/icons/iconlicious/misc/32/Monitor-icon.png
+
+type=playlist
+name=Sélectionné pour vous (Autres contenus et liens en français, espagnol et anglais)
+thumb=http://icons.iconarchive.com/icons/reclusekc/pencil/256/Pencil-icon.png
+URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/selection.txt
+icon=http://icons.iconarchive.com/icons/reclusekc/pencil/32/Pencil-icon.png
+
+type=playlist
+name=Rechercher sur Navi-X
+URL=http://www.navixtreme.com/plx/search.plx
+thumb=http://icons.iconarchive.com/icons/icons-land/vista-elements/256/Search-icon.png
+icon=http://icons.iconarchive.com/icons/icons-land/vista-elements/32/Search-icon.png
+
+type=playlist
+name=Mes Favoris
+thumb=http://icons.iconarchive.com/icons/uriy1966/steel-system/256/Favorites-icon.png
+URL=favorites.plx
+icon=http://icons.iconarchive.com/icons/uriy1966/steel-system/32/Favorites-icon.png
+
+# 893394
+type=playlist
+name=Les listes les plus regardées (dernières 24h)
+thumb=http://www.navixtreme.com.nyud.net/images/logos/viewed.png
+URL=http://www.navixtreme.com/playlist/day.plx
+icon=http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-8/32/Monitoring-icon.png
+
+
+# 893394
+type=playlist
+name=Les listes les plus regardées (semaine)
+thumb=http://www.navixtreme.com.nyud.net/images/logos/viewed.png
+URL=http://www.navixtreme.com/playlist/week.plx
+icon=http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-8/32/Monitoring-icon.png
+
+type=playlist
+name=Musiques
+URL=https://navi-x.googlecode.com/svn/trunk/networks/music/index.txt
+thumb=http://clansmkr.comze.com/images/music.png
+icon=http://icons.iconarchive.com/icons/robsonbillponte/iRob/32/Misc-Audio-Midi-Setup-icon.png
+
+type=playlist
+name=Images
+URL=https://navi-x.googlecode.com/svn/trunk/networks/pictures/index.txt
+thumb=http://clansmkr.comze.com/images/pictures.png
+icon=http://icons.iconarchive.com/icons/iconshock/real-vista-web-design/32/Services-icon.png
+
+# 893399
+type=playlist
+name=Réseau Navi-X
+thumb=http://i42.tinypic.com/jph4rd.png
+URL=https://navi-x.googlecode.com/svn/trunk/networks/index.txt
+icon=http://navi-x.googlecode.com/svn/trunk/networks/icon.png
+
+type=playlist
+name=Navi-Xtreme Portail (en anglais)
+thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/logo-xbmchub.png
+URL=http://www.navixtreme.com/playlist/50242/navi-xtreme_nxportal_home.plx
+icon=http://icons.iconarchive.com/icons/icons-land/vista-hardware-devices/32/Home-Server-icon.png
+
+# 893399
+type=playlist
+name=Contenu pour adultes - Interdit aux mineurs !
+description=
+Pour accéder à ce contenu protégé :
+- Crééz un compte sur http://www.navixtreme.com
+- Une fois connecté sur le site navixtreme, allez sur http://www.navixtreme.com/members ou cliquez sur votre pseudonyme sur le menu de gauche et allez dans "Preferences". Vous pouvez alors cocher ou décocher le "Display content tagged as adult" (afficher le contenu pour adulte)
+- Via votre boitier média center, connectez-vous avec votre compte en utilisant le menu de gauche (clic gauche) "Se connecter"
+- Récapitulatif : [COLOR=FFFF0000]vous devez absolument être connecté et avoir coché "Display content tagged as adult" sur navixtreme.com pour accéder aux contenus de ces listes.[/COLOR]
+Pour désactiver l'accès :
+- Déconnectez-vous via le menu gauche "Se deconnecter" ou décocher le "Display content tagged as adult" sur navixtreme.com pour re-protéger l'accès à ces contenus. Merci d'être vigilant, vous trouverez un rappel de la loi à ce sujet ci-dessous, pensez à vos enfants ! 
+Rappel de la loi (Article 227-24 du code pénal) :
+Le fait de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message à caractère violent ou pornographique ou de nature à porter gravement atteinte à la dignité humaine est puni de trois ans d'emprisonnement et de 75 000€ d'amende lorsque ce message est susceptible d'être vu ou perçu par un mineur.
+/description
+thumb=http://www.barcelo.com/BarceloHotels/en_GB/Images/ADULTS_only21-65544.gif
+URL=https://raw.github.com/NavFRi-x/playlists/master/playlists/adult.txt
+icon=http://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/32/Letter-X-icon.png
+
+type=window
+name=Gestionnaire de fichiers
+URL=filemanager
+thumb=http://icons.iconarchive.com/icons/treetog/i/256/Documents-icon.png
+icon=http://icons.iconarchive.com/icons/treetog/i/32/Documents-icon.png
