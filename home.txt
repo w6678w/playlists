@@ -1,10 +1,6 @@
-#First line indicated the Playlist version.
 version=1
-#Second line indicates background image.
-background=http://scenery-wallpapers.com/wallpapers/vista_summer_sea_beach_wallpaper_by_booterboys-1440x900.jpg
-#third line indicates the title
+background=http://scenery-wallpapers.com/view-paris_eiffel_tower_evening_wallpaper_3-1024x768.html
 title=Accueil
-#logo=http://www.navi-x.org/playlists/logo.png
 description=
 Nous n'offrons aucun hébergement de contenus ou tout type de service commercial de quelque nature que ce soit.
 Nous n'encourageons aucune infraction de la loi et ne pouvons être tenu pour responsable d'aucune infraction vis-à-vis des lois, que ce soit parce que vous établissiez un lien avec ce domaine, que vous utilisiez, reproduisiez ou republiez l'information contenue sur ce site.
@@ -36,15 +32,7 @@ thumb=http://www.ctphotos.fr/Image/Flag/round/fr.png
 URL=https://imedtv1.googlecode.com/svn/Playlists/home
 icon=http://icons.iconarchive.com/icons/iconscity/flags/32/france-icon.png
 
-#type=playlist
-#name=Todo el contenido en español (tout le contenu espagnol)
-#thumb=http://i720.photobucket.com/albums/ww210/Ramir3z30/1600367-Spanish_flag-Spain.jpg
-#URL=http://makykiki.tk/NaviX/MakyKiki.plx
-#URL=https://raw.github.com/makykiki/Wii-Lista-Navi-X/master/MakyKiki.plx
-#icon=http://icons.iconarchive.com/icons/deleket/flag-borderless/32/Spain-icon.png
-
 type=playlist
-#name=Mas contenido en español (encore plus de contenu espagnol - devrait remplacer le lien précédent)
 name=Todo el contenido en español (tout le contenu espagnol)
 thumb=http://icons.iconarchive.com/icons/deleket/flag-borderless/256/Spain-icon.png
 URL=http://5.56.59.73/menu/full379.txt
@@ -81,15 +69,12 @@ thumb=http://icons.iconarchive.com/icons/uriy1966/steel-system/256/Favorites-ico
 URL=favorites.plx
 icon=http://icons.iconarchive.com/icons/uriy1966/steel-system/32/Favorites-icon.png
 
-# 893394
 type=playlist
 name=Les listes les plus regardées (dernières 24h)
 thumb=http://www.navixtreme.com.nyud.net/images/logos/viewed.png
 URL=http://www.navixtreme.com/playlist/day.plx
 icon=http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-8/32/Monitoring-icon.png
 
-
-# 893394
 type=playlist
 name=Les listes les plus regardées (semaine)
 thumb=http://www.navixtreme.com.nyud.net/images/logos/viewed.png
@@ -108,9 +93,8 @@ URL=https://navi-x.googlecode.com/svn/trunk/networks/pictures/index.txt
 thumb=http://clansmkr.comze.com/images/pictures.png
 icon=http://icons.iconarchive.com/icons/iconshock/real-vista-web-design/32/Services-icon.png
 
-# 893399
 type=playlist
-name=Réseau Navi-X
+name=Réseau Navi-X (en anglais)
 thumb=http://i42.tinypic.com/jph4rd.png
 URL=https://navi-x.googlecode.com/svn/trunk/networks/index.txt
 icon=http://navi-x.googlecode.com/svn/trunk/networks/icon.png
@@ -121,7 +105,6 @@ thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/logo-xbmchub.png
 URL=http://www.navixtreme.com/playlist/50242/navi-xtreme_nxportal_home.plx
 icon=http://icons.iconarchive.com/icons/icons-land/vista-hardware-devices/32/Home-Server-icon.png
 
-# 893399
 type=playlist
 name=Contenu pour adultes - Interdit aux mineurs !
 description=
