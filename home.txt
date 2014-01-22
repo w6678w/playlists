@@ -35,7 +35,7 @@ icon=http://icons.iconarchive.com/icons/iconscity/flags/32/france-icon.png
 type=playlist
 name=Todo el contenido en español (tout le contenu espagnol)
 thumb=http://icons.iconarchive.com/icons/deleket/flag-borderless/256/Spain-icon.png
-URL=http://5.56.59.73/menu/full379.txt
+URL=http://dl.dropbox.com/u/22946999/ocultos378final.plx
 icon=http://icons.iconarchive.com/icons/deleket/flag-borderless/32/Spain-icon.png
 
 type=playlist
